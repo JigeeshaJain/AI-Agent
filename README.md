@@ -105,9 +105,13 @@ python main.py     #Windows
 + Vector search + embeddings → scalable retrieval
 + Modular design → extensible to multi-agent systems
 
+### Installing and Fetching the Ollama Libraries
+
 <img width="967" height="965" alt="Screenshot 2026-05-04 at 12 06 57 PM" src="https://github.com/user-attachments/assets/39826267-55f2-42a2-b826-c4ceaebc717f" />
 
+--------
 
+### Agent running Locally and responding to the prompt. 
 
 <img width="1666" height="788" alt="Screenshot 2026-05-04 at 11 57 23 AM" src="https://github.com/user-attachments/assets/b30d426f-67d3-43ad-808d-188bda38ba24" />
 
